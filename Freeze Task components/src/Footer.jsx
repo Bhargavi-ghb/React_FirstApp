@@ -11,7 +11,7 @@ class Footer extends React.Component {
                         <img width="50" height="50" src="https://img.icons8.com/ios/50/whatsapp--v1.png" alt="whatsapp--v1" />
                         <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/twitterx--v2.png" alt="twitterx--v2" />
                         <img width="50" height="50" src="https://img.icons8.com/ios/50/linkedin.png" alt="linkedin" />                </div>
-                    <p style={{ textAlign: "center" }}>© 2023 Freeeze. All Rights Reserved.</p>
+                    <p style={{ textAlign: "center" }}>© 2025 Bhargavi. All Rights Reserved.</p>
                 </div>
 
             </>
